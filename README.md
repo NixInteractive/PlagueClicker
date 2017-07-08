@@ -7,7 +7,7 @@ One is the Kongregate API Script. The other is the Kongregate Preloader HTML fil
 You can find both of these scripts on the Kongregate Developer Forums.
 
 I have a license included with these files but if you don't want to read it the TL:DR version is essentially you can use this
-code for whatever you want in any way you want so long as credit is given.
+code for whatever you want in any way you want so long as credit is given and changes made are documented.
 
 If you see any problems with my code or know of ways it can be improved(Which it definitely can be!), please don't hesitate
 to let me know! You can email me at nixinteractive@yahoo.com or just search for Nix Interactive on YouTube, Facebook, and Twitter!
